@@ -1,0 +1,11 @@
+
+/* tl_favoriten
+----------------------------------------*/
+
+.tl_favoriten span {
+    display:inline-block;
+}
+
+.tl_favoriten span.icon  { width:24px; }
+.tl_favoriten span.label { width:196px; }
+.tl_favoriten span.url   { }
